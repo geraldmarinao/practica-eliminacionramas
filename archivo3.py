@@ -1,1 +1,2 @@
-print("tercer archivo")
+print("tercer archivo modificado")
+console.log("nuevo")
